@@ -1,0 +1,226 @@
+🧠 6-Month Deep DSA Mastery Plan in Python (180 Days | 5 hrs/day)
+📌 Phase 1: Python Core + Math + Logic Building (Days 1–30)
+🔹 Week 1: Python Foundations
+Day 1–2: Variables, data types, functions, I/O, loops, conditions
+
+Day 3: Lists, tuples, sets, dictionaries (basic operations)
+
+Day 4: Functions (args, kwargs, recursion basics)
+
+Day 5: Pythonic constructs (comprehensions, zip, map, filter)
+
+Day 6: File handling, OOP intro
+
+Day 7: Practice 4–5 easy Python problems (HackerRank/LeetCode)
+
+
+===============================================================================================================
+🔹 Week 2: Time Complexity + Mathematics
+Day 8–9: Big-O notation, best/worst/average case
+
+Day 10: Primes, GCD/LCM, Euclidean algorithm
+
+Day 11: Modular arithmetic, factorial, combinatorics
+
+Day 12–13: Number theory – base conversion, bit counting
+
+Day 14: Practice 4–5 problems (math focus)
+
+
+=================================================================================================================
+
+🔹 Week 3: Bit Manipulation + Basic Patterns
+Day 15: Bit operations (AND, OR, XOR, NOT)
+
+Day 16: Count bits, check power of 2, odd/even using bitwise
+
+Day 17: Set/unset/toggle bits, bit masks
+
+Day 18: XOR problems (find missing/repeating elements)
+
+Day 19–21: Sliding Window, Two Pointers intro + problems
+
+================================================================================================================
+🔹 Week 4: Arrays + Strings (Deep Dive)
+Day 22–23: Sorting arrays (bubble, selection, insertion)
+
+Day 24: In-place reversal, rotation, partitioning
+
+Day 25: String internals, slicing, ASCII tricks
+
+Day 26–27: Palindromes, anagram groupings, prefix/suffix
+
+Day 28–30: Practice 8–10 medium problems (LeetCode top 100)
+
+===================================================================================================================
+📌 Phase 2: Core DSA (Days 31–90)
+🔹 Week 5–6: Recursion + Backtracking
+Recursive tree tracing, tail recursion
+
+Backtracking problems: N-Queens, Sudoku, permutations
+
+Subset generation, recursion with memoization
+
+======================================================================================================================
+
+🔹 Week 7–8: Linked Lists
+Singly/Doubly/Circular linked list
+
+Floyd’s cycle detection, middle node, merge two lists
+
+Reverse, sort, rotate, add numbers as linked lists
+
+Convert binary to number (linked)
+
+=============================================================================================================================
+
+🔹 Week 9–10: Stacks & Queues
+Implement using lists/deques
+
+Infix to postfix, postfix evaluation
+
+Monotonic stack (Next Greater Element)
+
+Queue types: circular, deque, priority queue (min/max heap)
+
+
+====================================================================================================================================
+🔹 Week 11–12: Trees
+Tree traversals: preorder, postorder, inorder (recursive/iterative)
+
+Binary Search Trees: insert/delete/search
+
+Lowest Common Ancestor (LCA)
+
+Diameter, balanced tree check
+
+Serialization/Deserialization of trees
+
+Views: top/bottom/left/right
+
+Level-order traversal with queues
+
+=======================================================================================================================================
+
+📌 Phase 3: Advanced Data Structures (Days 91–135)
+🔹 Week 13–14: Tries + Heaps
+Trie insert/search/delete
+
+Auto-complete, longest prefix matching
+
+Min heap / Max heap with Python heapq
+
+K largest/smallest elements, median of stream
+
+Heap-based sorting
+
+========================================================================================================================================
+
+🔹 Week 15–16: Graphs – Basics
+Adjacency list/matrix
+
+DFS, BFS, cycle detection
+
+Connected components (undirected + directed)
+
+Shortest path: BFS vs DFS
+
+Topological sort (Kahn's Algorithm, DFS method)
+
+=======================================================================================================================================
+
+🔹 Week 17: Advanced Graph Algorithms
+Dijkstra’s Algorithm (priority queue)
+
+Bellman-Ford
+
+Floyd-Warshall (All-pairs shortest path)
+
+Union-Find (DSU): path compression, rank
+
+Kruskal’s & Prim’s MST
+
+======================================================================================================================================
+🔹 Week 18–19: Dynamic Programming - I
+Recursion to DP transition
+
+1D DP: Fibonacci, climbing stairs, house robber, LIS
+
+2D DP: grid problems (unique paths, obstacle path)
+
+Subset sum, 0/1 knapsack
+
+Top-down vs Bottom-up
+
+=======================================================================================================================================
+
+🔹 Week 20: Dynamic Programming - II
+Longest common subsequence (LCS)
+
+Edit distance, wildcard matching
+
+DP with states (string + index)
+
+DP on trees and graphs
+
+Palindromic substrings, DP on partitions
+
+========================================================================================================================================
+
+📌 Phase 4: Problem Solving Mastery (Days 136–180)
+🔹 Week 21: Greedy Algorithms
+Activity selection, interval merging
+
+Greedy for coin change
+
+Fractional knapsack
+
+Greedy vs DP comparison
+
+===========================================================================================================================================
+
+🔹 Week 22: Sorting & Searching
+Merge sort, quicksort, count inversions
+
+Binary search on answer (aggressive cows, EKO, Koko eating bananas)
+
+Ternary search, two pointer techniques
+
+===========================================================================================================================================
+
+🔹 Week 23: Sliding Window, Prefix Sum, Hashing
+Min/max subarray, k-longest subarrays
+
+Kadane’s algorithm
+
+Rolling hash, Rabin-Karp, frequency maps
+
+===========================================================================================================================================
+
+🔹 Week 24–25: Real Coding Interview Practice
+Daily mock interviews (1 question: medium-hard)
+
+LeetCode Top 75: revisit top patterns
+
+Systematic review of DP, Graphs, Recursion
+
+=============================================================================================================================================
+🔹 Week 26: Final Preparation
+Daily 1 full contest simulation (90 mins)
+
+Post-contest analysis
+
+Resume + GitHub polishing
+
+Create cheat-sheets (Complexity table, Template library)
+
+================================================================================================================================================
+
+🧠 Daily Time Allocation (5 hrs/day)
+Task	Time	Notes
+Learn New Concepts	1.5 hrs	Focused topic deep dive
+Solve Problems	2 hrs	3 problems/day (1 easy, 1 medium, 1 hard)
+Read Editorials	0.5 hr	After solving, review better approaches
+Review & Notes	0.5 hr	Update mistake logs, write patterns
+Debug/Mock Interview	0.5 hr	Simulate interviews or optimize solutions
+
