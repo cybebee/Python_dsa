@@ -2,7 +2,7 @@ li = ["geeks", "for", "geeks"]
 for i in li:
     print(i)
     
-tup = ("geeks", "for", "geeks")
+tup = ("geeks","master in dsa", "for", "geeks")
 for i in tup:
     print(i)
     
