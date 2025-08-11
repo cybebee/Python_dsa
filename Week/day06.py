@@ -1,10 +1,10 @@
 import webbrowser
 
 # Word to search
-search_query = "strivekishan life"
+search_query = "strivekishan dsa day in life day "
 
 # Create the Google search URL
-url = f"https://www.google.com/search?q={search_query}"
+url = f"https://www.youtube.com/search?q={search_query}"
 
 # Open in Google Chrome
 # Optional: Set path to Chrome if default browser is not Chrome
