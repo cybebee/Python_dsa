@@ -8,7 +8,7 @@ for i in tup:
     
 s = "Geeks"
 for i in s:
-    print(i)
+    print(i)asfdsfdafsdasfasfdsafd
     
 d = dict({'x':123, 'y':354})
 for i in d:
