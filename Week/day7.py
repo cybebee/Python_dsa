@@ -6,6 +6,6 @@ file_to_delete = os.path.join(trash_path, "your_file.txt")
 
 if os.path.exists(file_to_delete):
     os.remove(file_to_delete)
-    print("File deleted from Trash.")
+    print("File deleted from Trash its working okay .")
 else:
     print("File not found in Trash.")
